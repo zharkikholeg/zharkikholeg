@@ -1,4 +1,14 @@
-### Hi there 👋
+### Стек
+- JavaScript (ES5, ES6+)
+- HTML5/CSS3
+- React
+- Redux
+- Node
+- Express
+- MongoDB
+- jQuery
+
+✨ Связываю красивые интерфейсы с бизнес-логикой
 
 <!--
 **zharkikholeg/zharkikholeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
